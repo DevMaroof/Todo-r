@@ -47,13 +47,11 @@ A simple, responsive, and feature-rich **Todo application built with React** to 
 
 ## 📸 Preview
 
-> Add a screenshot of your application here.
 
-```text
 ![Todo App Screenshot](./screenshots/todo.png)
-```
 
-You can replace the section above with:
+
+![Todo App Screenshot](./screenshots/todo2.png)
 
 
 
