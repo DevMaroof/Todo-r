@@ -48,10 +48,10 @@ A simple, responsive, and feature-rich **Todo application built with React** to 
 ## 📸 Preview
 
 
-![Todo App Screenshot](./screenshots/todo.png)
+![Todo App Screenshot](./screenshot/todo.png)
 
 
-![Todo App Screenshot](./screenshots/todo2.png)
+![Todo App Screenshot](./screenshot/todo2.png)
 
 
 
