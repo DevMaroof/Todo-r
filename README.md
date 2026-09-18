@@ -50,14 +50,12 @@ A simple, responsive, and feature-rich **Todo application built with React** to 
 > Add a screenshot of your application here.
 
 ```text
-📷 Screenshot / Demo
+![Todo App Screenshot](./screenshots/todo.png)
 ```
 
 You can replace the section above with:
 
-```md
-![Todo App Screenshot](./screenshots/todo-app.png)
-```
+
 
 ---
 
